@@ -59,6 +59,6 @@ The dataset includes transactional sales records with the following key columns:
 - Align inventory and marketing calendars with observed seasonality to effectively capture peak demand and mitigate low periods.
 - Evaluate pricing and reduce unnecessary discounts on high-selling but lower-profit products to enhance overall profitability.
 
-<a href="Adidas-Retail-Sales-and-Profit-Performance-/Adidas Retail Sales and Profit Performance (Analysis).xlsx"> The Dataset, Analysis and Interactive Dashboard</a> 
+<a href="Adidas Retail Sales and Profit Performance (Analysis).xlsx"> The Dataset, Analysis and Interactive Dashboard</a> 
 <img width="4262" height="1602" alt="Adidas Retail Sales and Profit Performance" src="https://github.com/user-attachments/assets/3ecf03d1-11d4-43aa-a994-deee44fd7e5a" />
 
